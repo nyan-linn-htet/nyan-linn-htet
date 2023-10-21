@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding" width="250" src="gifs/penguin-typing.gif">
+  <img alt="coding" width="270" src="gifs/coding.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm NYAN LINN HTET</h1>
