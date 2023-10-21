@@ -40,7 +40,7 @@
 
 <h3 align="left">🏆  GitHub Trophies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyan-linn-htet&theme=radical&title=Commits,Repositories,Followers,Experience" alt="nyan-linn-htet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyan-linn-htet&theme=radical&title=Commits,Repositories,Followers,Experience&margin-w=10" alt="nyan-linn-htet" /></a> </p>
 
 <h3 align="left">🔥  My Stats :</h3>
 
