@@ -46,5 +46,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nyan-linn-htet&show_icons=true&locale=en&theme=radical" alt="nyan-linn-htet" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nyan-linn-htet&theme=radical" alt="nyan-linn-htet" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyan-linn-htet&theme=radical" alt="nyan-linn-htet" />
 </div>
