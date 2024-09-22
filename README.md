@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm NYAN LINN HTET</h1>
-<h3 align="center">A programmer who turns coffee into code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyan-linn-htet&label=Profile%20views&color=0e75b6&style=flat" alt="nyan-linn-htet" /> </p>
 
